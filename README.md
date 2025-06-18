@@ -1,7 +1,7 @@
 #### ```class Romit_Chatterjee:```
 
+#### ```def __init__(self):```
 ```python
-def __init__(self):
     self.name = "Romit Chatterjee"
     self.role = "AI/ML Research Intern"
     self.university = "KIIT University (CGPA: 9.09/10)"
