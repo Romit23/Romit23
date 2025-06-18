@@ -1,4 +1,4 @@
-#### ```class RomitChatterjee:```
+#### ```class Romit_Chatterjee:```
 
 ```python
 def __init__(self):
